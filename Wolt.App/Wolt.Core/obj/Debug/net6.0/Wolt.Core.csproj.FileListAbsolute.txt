@@ -1,0 +1,12 @@
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\bin\Debug\net6.0\Wolt.Core.deps.json
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\bin\Debug\net6.0\Wolt.Core.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\bin\Debug\net6.0\Wolt.Core.pdb
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\Wolt.Core.csproj.AssemblyReference.cache
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\Wolt.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\Wolt.Core.AssemblyInfoInputs.cache
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\Wolt.Core.AssemblyInfo.cs
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\Wolt.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\Wolt.Core.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\refint\Wolt.Core.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\Wolt.Core.pdb
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Core\obj\Debug\net6.0\ref\Wolt.Core.dll

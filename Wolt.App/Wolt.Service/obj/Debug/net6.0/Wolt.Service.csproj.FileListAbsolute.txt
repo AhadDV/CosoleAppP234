@@ -1,0 +1,17 @@
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\bin\Debug\net6.0\Wolt.Service.deps.json
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\bin\Debug\net6.0\Wolt.Service.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\bin\Debug\net6.0\Wolt.Service.pdb
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\bin\Debug\net6.0\Wolt.Core.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\bin\Debug\net6.0\Wolt.Data.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\bin\Debug\net6.0\Wolt.Data.pdb
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\bin\Debug\net6.0\Wolt.Core.pdb
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.csproj.AssemblyReference.cache
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.AssemblyInfoInputs.cache
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.AssemblyInfo.cs
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.csproj.CoreCompileInputs.cache
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.csproj.CopyComplete
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\refint\Wolt.Service.dll
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\Wolt.Service.pdb
+C:\Users\Ahad\Desktop\Wolt.App\Wolt.Service\obj\Debug\net6.0\ref\Wolt.Service.dll
